@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Baba Data Sub</title>
+</head>
+<body>
+
+    <h1>MUHAMMAD BABA DATA SUB</h1>
+
+    <h2>Welcome to Muhammad Baba Data Sub</h2>
+
+    <p>Your trusted platform for affordable data,
+    airtime and bill payments in Nigeria.</p>
+
+    <button>Buy Data</button>
+    <button>Buy Airtime</button>
+    <button>Pay Bills</button>
+
+</body>
+</html>
